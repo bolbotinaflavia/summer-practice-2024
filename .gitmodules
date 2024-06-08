@@ -1,0 +1,4 @@
+[submodule "haufe_app"]
+	path = haufe_app
+	url = https://github.com/bolbotinaflavia/summer-practice-2024.git
+	branch = back-end
